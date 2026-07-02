@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Contact form — local server and Formspree fallback
 
 This repository includes two ways to make the contact form on `portfolio.html` work:
