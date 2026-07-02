@@ -7,7 +7,7 @@ A modern personal portfolio website showcasing my projects, skills, and experien
 - Responsive portfolio website
 - About, Skills, Projects, and Contact sections
 - Smooth scrolling and modern UI
-- Contact form with two available options:
+- Contact form with two available options;
   - Local Node.js backend (SMTP email)
   - Formspree integration (no backend required)
 
